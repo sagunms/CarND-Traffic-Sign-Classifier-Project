@@ -1,0 +1,5 @@
+model_checkpoint_path: "conv_model_j_final"
+all_model_checkpoint_paths: "conv_model_j_0"
+all_model_checkpoint_paths: "conv_model_j_10"
+all_model_checkpoint_paths: "conv_model_j_20"
+all_model_checkpoint_paths: "conv_model_j_final"
